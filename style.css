@@ -1,0 +1,21 @@
+ 
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+        }
+        .bg-dark-900 {
+            background-color: #1a202c;
+        }
+        .bg-dark-800 {
+            background-color: #2d3748;
+        }
+        .text-neon-400 {
+            color: #38a169;
+        }
+        .border-neon-400 {
+            border-color: #38a169;
+        }
+        .ring-neon-400 {
+            ring-color: #38a169;
+        }
+   
